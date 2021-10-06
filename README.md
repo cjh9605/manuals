@@ -27,6 +27,8 @@ function add(x,y) { return x +y; }
   var now - new Date();
 </script>
 ```
+<https://www.ysc.ac.kr>
+
 [용인예술과학대학](http://www,ysc.ac.kr)
 
 ![이미지 연습](http://kyrieko.dothome.co.kr/images/first.jpg)
